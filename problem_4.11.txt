@@ -1,0 +1,17 @@
+Write a program named Fibonacci that prints the Fibonacci
+sequence of numbers. The first two numbers in the sequence
+are 1. Every other number in the sequence is the sum of two
+previous numbers. Your program should prompt the user to
+enter a limit; the program will stop when the current number
+in the sequence is greater than or equal to this limit. Here's
+what the user will see when the program is executed:
+
+This program prints the Fibonacci sequence
+
+Enter a limit on the largest number to be displayed: 50
+
+1 1 2 3 5 8 13 21 34
+
+Hint: Use three int variables to store the current number in
+the sequence, the previous number in the sequence, and the
+next number in the sequence.
